@@ -10,7 +10,7 @@
 
 ⚜┇انسخ رابط كيثاب السورس  ↡
 
-`git clone https://github.com/islambott/islam.git ;cd MAX;chmod +x ins;./ins`
+`git clone https://github.com/islambott/islam.git ;cd islam;chmod +x ins;./ins`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
